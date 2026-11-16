@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: ""
+  apiUrl: "https://controversy-butter-roberts-three.trycloudflare.com"
 };
