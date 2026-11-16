@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#111124">
+    <meta name="description" content="Classement du temps passé dans les salons vocaux de Team Royale.">
+    <title>Classement vocal — Team Royale</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./config.js"></script>
+    <script defer src="./app.js"></script>
+  </head>
+  <body>
+    <div class="page-glow page-glow-one"></div>
+    <div class="page-glow page-glow-two"></div>
+    <main class="shell">
+      <header class="topbar">
+        <a class="brand" href="./" aria-label="Team Royale — accueil du classement">
+          <span class="brand-mark">TR</span>
+          <span>TEAM <strong>ROYALE</strong></span>
+        </a>
+        <span class="live-pill"><span class="live-dot"></span> CLASSEMENT VOCAL</span>
+      </header>
+
+      <section class="hero">
+        <p class="eyebrow">LA COMMUNAUTÉ, EN CHIFFRES</p>
+        <h1>Le temps bien<br><span>partagé.</span></h1>
+        <p class="intro">Découvre qui passe le plus de temps avec la communauté dans les salons vocaux.</p>
+      </section>
+
+      <section class="leaderboard-card" aria-labelledby="leaderboard-title">
+        <div class="card-heading">
+          <div>
+            <p class="eyebrow">TEAM ROYALE</p>
+            <h2 id="leaderboard-title">Classement complet</h2>
+          </div>
+          <span class="trophy" aria-hidden="true">🏆</span>
+        </div>
+
+        <div class="toolbar">
+          <div class="period-switch" role="group" aria-label="Période du classement">
+            <button type="button" class="period-button is-selected" data-period="month" aria-pressed="true">Mois</button>
+            <button type="button" class="period-button" data-period="year" aria-pressed="false">Année</button>
+          </div>
+          <label class="period-input" id="month-control">
+            <span class="visually-hidden">Choisir un mois</span>
+            <input id="month-picker" type="month">
+          </label>
+          <label class="period-input is-hidden" id="year-control">
+            <span class="visually-hidden">Choisir une année</span>
+            <input id="year-picker" type="number" min="2020" max="2100" step="1">
+          </label>
+        </div>
+
+        <div class="results-heading">
+          <p id="period-label">Chargement…</p>
+          <p id="member-count" class="member-count"></p>
+        </div>
+
+        <p id="status" class="status" role="status" aria-live="polite">Chargement du classement…</p>
+        <ol id="ranking" class="ranking-list"></ol>
+
+        <div class="card-note">
+          <span aria-hidden="true">ⓘ</span>
+          <p>Le temps est compté tant que le bot est en ligne. Le salon AFK est exclu; le mode muet ou sourd ne change pas le décompte.</p>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <span>TEAM ROYALE</span>
+        <span>Fait pour jouer ensemble <span aria-hidden="true">✦</span></span>
+      </footer>
+    </main>
+  </body>
+</html>
