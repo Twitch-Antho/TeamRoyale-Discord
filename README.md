@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Rejoindre%20TeamRoyale-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ad7aMevNMx)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre%20Team-Royale-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ad7aMevNMx)
 [![Site Web](https://img.shields.io/badge/Site-Web-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Twitch-Antho/TeamRoyale-Discord)
 
-**Le portail web officiel de l’écosystème TeamRoyale Discord**
+**Le portail web officiel de l’écosystème Team-Royale Discord**
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## À propos du projet
 
-**TeamRoyale** est un site web conçu pour présenter et accompagner notre bot Discord.
+**Team-Royale** est un site web conçu pour présenter et accompagner notre bot Discord.
 
 L’objectif est d’offrir aux membres de la communauté une expérience simple, moderne et claire :
 
