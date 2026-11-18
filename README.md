@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre%20TeamRoyale-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ad7aMevNMx)
-[![Site Web](https://img.shields.io/badge/Site-Web-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Twitch-Antho/TeamRoyale-Discord)
+[![Site Web](https://img.shields.io/badge/Site-Web-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://twitch-antho.github.io/TeamRoyale-Discord/)
 
 **Le portail web officiel de l’écosystème Team-Royale Discord**
 
