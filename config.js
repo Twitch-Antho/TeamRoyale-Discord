@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://serum-arrived-moms-concentrations.trycloudflare.com"
+  apiUrl: "https://brochure-exam-sonic-nato.trycloudflare.com"
 };
