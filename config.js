@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://dvds-version-broad-organ.trycloudflare.com"
+  apiUrl: "https://charter-season-virtue-principle.trycloudflare.com"
 };
