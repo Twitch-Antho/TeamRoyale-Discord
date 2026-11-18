@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://brochure-exam-sonic-nato.trycloudflare.com"
+  apiUrl: "https://dvds-version-broad-organ.trycloudflare.com"
 };
