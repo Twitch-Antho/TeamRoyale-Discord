@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://sat-medications-ipaq-codes.trycloudflare.com"
+  apiUrl: "https://sectors-matters-manufacturers-homes.trycloudflare.com"
 };
