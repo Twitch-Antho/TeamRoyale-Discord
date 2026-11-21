@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://aqua-clause-bit-lauren.trycloudflare.com"
+  apiUrl: "https://sat-medications-ipaq-codes.trycloudflare.com"
 };
