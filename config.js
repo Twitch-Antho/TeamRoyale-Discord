@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://sectors-matters-manufacturers-homes.trycloudflare.com"
+  apiUrl: "https://warranty-eat-messenger-excluding.trycloudflare.com"
 };
