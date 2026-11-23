@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://warranty-eat-messenger-excluding.trycloudflare.com"
+  apiUrl: "https://hydrogen-organizer-beth-pittsburgh.trycloudflare.com"
 };
