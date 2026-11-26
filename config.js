@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://column-punch-tender-mine.trycloudflare.com"
+  apiUrl: "https://shine-posting-pirates-eco.trycloudflare.com"
 };
