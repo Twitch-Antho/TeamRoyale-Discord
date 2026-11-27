@@ -1,3 +1,3 @@
 window.LEADERBOARD_CONFIG = {
-  apiUrl: "https://shine-posting-pirates-eco.trycloudflare.com"
+  apiUrl: "https://amplifier-humidity-ultimately-charleston.trycloudflare.com"
 };
